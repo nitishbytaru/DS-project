@@ -1,0 +1,44 @@
+body {
+    padding: 20px;
+    background-color: #121212; /* Dark background color */
+    color: #ffffff; /* White text color */
+  }
+
+  textarea {
+    resize: none;
+    background-color: #1e1e1e; /* Darker textarea background color */
+    color: #ffffff; /* White text color */
+  }
+
+  .container {
+    background-color: #121212; /* Dark container background color */
+    border: 2px solid #4285f4; /* Blue border color */
+    border-radius: 10px; /* Rounded corners */
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Box shadow for depth */
+  }
+
+  .form-label {
+    color: #4285f4; /* Blue label color */
+  }
+
+  .form-select,
+  .form-control {
+    background-color: #1e1e1e; /* Darker input background color */
+    color: #ffffff; /* White text color */
+    border: 1px solid #4285f4; /* Blue border color */
+  }
+
+  .btn-primary {
+    background-color: #4285f4; /* Blue button background color */
+    border: 1px solid #4285f4; /* Blue border color */
+  }
+
+  .btn-primary:hover {
+    background-color: #3669c9; /* Darker blue on hover */
+    border: 1px solid #3669c9;
+  }
+
+  #result {
+    color: #ffffff; /* White text color for result */
+  }
